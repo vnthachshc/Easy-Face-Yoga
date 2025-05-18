@@ -1,4 +1,4 @@
-**Terms of Use**
+*Easy Face Yoga Terms of Use*
 
 **Effective Date:** May 18, 2025
 

@@ -1,4 +1,4 @@
-**Privacy Policy**
+* Easy Face Yoga Privacy Policy*
 
 **Effective Date:** May 18, 2025
 
