@@ -50,4 +50,4 @@ Not for use by children under 13. We do not knowingly collect data from users un
 ---
 
 ### 7. Contact Us
-If you have questions, email us at **privacy@faceexercises.app**.
+If you have questions, email us at **vnthach.shc@gmail.com**.

@@ -32,4 +32,4 @@ Face Exercises (“we,” “us,” “our”) provides this app free of charge 
 - Updated terms take effect when posted in the app.
 
 ### 7. Contact Us
-Questions? Email us at **support@faceexercises.app**.
+Questions? Email us at **vnthach.shc@gmail.com**.
