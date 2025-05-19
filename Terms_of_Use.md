@@ -2,7 +2,7 @@
 
 **Effective Date:** May 18, 2025
 
-Face Exercises (“we,” “us,” “our”) provides this app free of charge with ads. You may purchase an ad‑free version. By downloading or using Face Exercises, you agree to these terms.
+Face Exercises (“we,” “us,” “our”) provides this free app. By downloading or using Face Exercises, you agree to these terms.
 
 ---
 
@@ -10,10 +10,8 @@ Face Exercises (“we,” “us,” “our”) provides this app free of charge 
 - You may install and use the app on your personal device.
 - You may not modify, distribute, or sell the app.
 
-### 2. Ads and Purchase
-- The free version displays ads served by our advertising partners.
-- You can remove ads by purchasing the ad‑free upgrade in the app.
-- All purchases are final and handled through the App Store.
+### 2. Purchase
+- The app is completely free
 
 ### 3. User Conduct
 - Use the app responsibly and lawfully.

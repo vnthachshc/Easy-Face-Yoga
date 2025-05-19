@@ -6,39 +6,28 @@
 
 ---
 
-### 1. Information We Collect
-- **Analytics:** App usage events and device info via Firebase Analytics.  
-- **Ads:** Advertising identifiers and ad interactions via Google AdMob.  
+### 1. Information We Collect 
 - **Local Data:** Your exercise progress, favorites, settings, and reminders are stored on your device only.
 
 ---
 
 ### 2. How We Use Data
-- **Improve App:** Understand feature usage, fix bugs, and optimize performance.  
-- **Ads:** Serve relevant ads through AdMob.  
+- **Improve App:** Understand feature usage, fix bugs, and optimize performance.   
 - **Local Features:** Enable reminders, track progress, and save settings on your device.
 
 ---
 
 ### 3. Data Sharing
-We share data only with:
-- **Firebase (Google):** Analytics and crash reports.  
-- **Google AdMob:** Ad serving.  
-- **Apple:** In-App Purchase and notification delivery.
-
 We **do not** sell your personal information.
 
 ---
 
-### 4. Data Retention
-- **Analytics & Ads:** Retained per Google’s policies.  
+### 4. Data Retention  
 - **Local Data:** Kept on device until you delete the app.
 
 ---
 
 ### 5. Your Choices
-- **Analytics:** Turn off in app Settings → Analytics.  
-- **Ads:** Use device settings to limit ad tracking.  
 - **Notifications:** Enable or disable in your device’s Notifications settings.  
 - **Data Removal:** Uninstalling the app clears all local data.
 
