@@ -22,9 +22,6 @@ We may collect information about you in a variety of ways. The information we ma
 *   **Advertising Identifiers:**
     *   To support the ad-funded version of our App, we may work with third-party advertising networks. These networks may collect and use certain information, such as your device's advertising identifier (e.g., IDFA for iOS, AAID for Android), IP address, device make and model, operating system, and information about your interaction with ads shown in our App. This information is used to provide personalized advertising and to measure ad performance. You can typically control or reset your advertising identifier through your device's privacy settings.
 
-*   **Usage Data & Analytics (Optional - if you implement this):**
-    *   We may collect anonymous, aggregated information about your interaction with the App, such as features used, session duration, screens visited, and crash reports. This data helps us understand how our App is being used, identify areas for improvement, and enhance stability. This data, if collected, is anonymized and cannot be used to identify you personally. (If you use a specific analytics provider like Firebase Analytics, you should mention it here).
-
 ---
 
 ### 2. How We Use Your Information
